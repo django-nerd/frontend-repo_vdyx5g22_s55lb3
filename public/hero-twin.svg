@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e9dbc4"/>
+      <stop offset="100%" stop-color="#F5EBDD"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g)"/>
+  <g opacity="0.25">
+    <circle cx="1200" cy="140" r="180" fill="#0B3D2E"/>
+    <rect x="200" y="520" width="1200" height="300" rx="40" fill="#0B3D2E"/>
+  </g>
+  <text x="60" y="120" font-family="Inter, Arial" font-size="54" fill="#0B3D2E">Achyuth Hotels — Classic Twin</text>
+  <text x="60" y="190" font-family="Inter, Arial" font-size="28" fill="#0B3D2E" opacity="0.9">Cinematic placeholder visual</text>
+</svg>
